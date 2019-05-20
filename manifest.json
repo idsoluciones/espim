@@ -1,9 +1,9 @@
 {
-  "name": "#ProgramadorFitness",
-  "short_name": "#ProgramadorFitness",
+  "name": "ESPIM",
+  "short_name": "ESPIM_",
   "description": "Bienvenid@s a #ProgramadorFitness, serie de videos, donde te daré consejos para llevar una vida saludable y evitar el sedentarismo. Recuerda... mente sana en cuerpo sano :)",
   "background_color": "#2B2B2B",
-  "theme_color": "#F0DB4F",
+  "theme_color": "#0ddb40",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "./?utm_source=web_app_manifest",
@@ -21,27 +21,27 @@
       "type": "image/png"
     },
     {
-      "src": "./img/icon_384.png",
+      "src": "./img/ProgramadorFitness.png",
       "sizes": "384x384",
       "type": "image/png"
     },
     {
-      "src": "./img/icon_256.png",
+      "src": "./img/ProgramadorFitness.png",
       "sizes": "256x256",
       "type": "image/png"
     },
     {
-      "src": "./img/icon_192.png",
+      "src": "./img/ProgramadorFitness.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "./img/icon_128.png",
+      "src": "./img/ProgramadorFitness.png",
       "sizes": "128x128",
       "type": "image/png"
     },
     {
-      "src": "./img/icon_96.png",
+      "src": "./img/ProgramadorFitness.png",
       "sizes": "96x96",
       "type": "image/png"
     },
