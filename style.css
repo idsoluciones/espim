@@ -57,12 +57,12 @@ p {
 
 .Header h1 { word-wrap: break-word; }
 
-.Header img {
+/*.Header img {
   margin: 0 auto;
   display: block;
   max-width: 150px;
   border-radius: 50%;
-}
+}*/
 
 .Header nav {
   padding: 2rem 0;
