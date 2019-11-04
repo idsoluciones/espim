@@ -1,9 +1,9 @@
 {
-  "name": "App ESPIM",
-  "short_name": "PWA ESPIM",
+  "name": "App Prueba",
+  "short_name": "Prueba ESPIM",
   "description": "Bienvenid@s a ",
   "background_color": "#2B2B2B",
-  "theme_color": "#0ddb40",
+  "theme_color": "#590DDC",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "./?utm_source=web_app_manifest",
